@@ -3,9 +3,9 @@
 ## Foundation Models for Reasoning：
 
 #### AgenticReason4LLM
-- [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), 2026. (https://github.com/weitianxin/Awesome-Agentic-Reasoning)
+- [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
-- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026.
+- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
 
 #### FM4Reason
 - A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook, [ACM Comput. Surv. 57, 11, Article 278 (June 2025)](https://dl.acm.org/doi/10.1145/3729218).
