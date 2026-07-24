@@ -5,6 +5,8 @@
 #### AgenticReason4LLM
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538) (https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
+- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136)
+
 #### FM4Reason
 - [A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook, ACM Comput. Surv. 57, 11, Article 278 (June 2025)](https://dl.acm.org/doi/10.1145/3729218)
 
@@ -13,7 +15,7 @@
 
 
 #### Graph Foundation Models/Konwledge Graph for Reasoning (GFM4Reason)
-- Graph foundation models: A comprehensive survey, 2025. [GFM](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
+- Graph foundation models: A comprehensive survey, 2025. [GitHub](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
 
 - G-Reasoner: Foundation models for unified reasoning over graph-structured knowledge, ICLR 2026.
 
