@@ -3,7 +3,7 @@
 ## Foundation Models for Reasoning：
 
 #### AgenticReason4LLM
-- [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538) (https://github.com/weitianxin/Awesome-Agentic-Reasoning))
+- [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538) (https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 #### FM4Reason
 - [A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook, ACM Comput. Surv. 57, 11, Article 278 (June 2025)](https://dl.acm.org/doi/10.1145/3729218)
@@ -22,3 +22,11 @@
 ## AI Agent：
 
 - AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026.
+
+
+## Self-evolving AI agents：
+- A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026. [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents) 
+
+- Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/) 
+
+- Self-improvement in Modern Agent Systems: A suvery, 2026. [GitHub](https://github.com/selfimproving-agent/awesome-Self-Improving-Agents)  [Project](https://selfimproving-agent.github.io/)
