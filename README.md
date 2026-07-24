@@ -29,4 +29,4 @@
 
 - Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/) 
 
-- Self-improvement in Modern Agent Systems: A suvery, 2026. [GitHub](https://github.com/selfimproving-agent/awesome-Self-Improving-Agents)  [Project](https://selfimproving-agent.github.io/)
+- Self-improvement in modern agent systems: A suvery, 2026. [GitHub](https://github.com/selfimproving-agent/awesome-Self-Improving-Agents)  [Project](https://selfimproving-agent.github.io/)
