@@ -7,11 +7,17 @@
 
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
 
+- LLM-based agentic reasoning frameworks: A survey from methods to scenarios,2025.
+
 #### FM4Reason
 - A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook, [ACM Comput. Surv. 57, 11, Article 278 (June 2025)](https://dl.acm.org/doi/10.1145/3729218).
 
+- A survey on LLM complex reasoning through the lens of self-evolution, ACL 2025 Findings.
+
 #### Foundation Agents for Reasoning (FA4Reason, Book)
 - [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026.
+
+- SE-Agent: Self-evolution trajectory optimization in multi-step reasoning with LLM-based agents, NeurIPS 2025.
 
 
 #### Graph Foundation Models/Konwledge Graph for Reasoning (GFM4Reason)
