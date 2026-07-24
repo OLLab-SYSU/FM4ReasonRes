@@ -21,6 +21,9 @@
 
 - HYPER: A foundation model for inductive link prediction with knowledge hypergraphs, ICLR 2026.
 
+- Unifying large language models and knowledge graphs: a roadmap, IEEE TKDE, 2024.
+
+
 ## AI Agent：
 
 - AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026.
