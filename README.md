@@ -27,7 +27,7 @@
 
 - Unifying large language models and knowledge graphs: a roadmap, IEEE TKDE, 2024.
 
-## Agents and Self-evolving agents：
+## Agents and Self-Evolving Agents：
 - [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026.
 
 - AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026.
@@ -37,3 +37,6 @@
 - Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/) 
 
 - Self-improvement in modern agent systems: A suvery, 2026. [GitHub](https://github.com/selfimproving-agent/awesome-Self-Improving-Agents)  [Project](https://selfimproving-agent.github.io/)
+
+- A systematic survey of self-evolving agents: from model-centric to environment-driven co-evolution, 2026.
+
