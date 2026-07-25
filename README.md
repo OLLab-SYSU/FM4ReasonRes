@@ -2,7 +2,7 @@
 
 ## Foundation Models for Reasoning：
 
-#### Foundation Agents for Reasoning (Agentic reasoning)
+#### Foundation Agents for Reasoning (Agentic Reasoning)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 - LLM-based agentic reasoning frameworks: A survey from methods to scenarios, 2025.
@@ -13,6 +13,8 @@
 
 #### Foundation Models for Reasoning (FM4Reason)
 - A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook, [ACM Comput. Surv. 57, 11, Article 278, June 2025](https://dl.acm.org/doi/10.1145/3729218).
+
+- From system 1 to system 2: a survey of reasoning large language models, IEEE TPAMI, 2026.
 
 - A survey on LLM complex reasoning through the lens of self-evolution, ACL 2025 Findings.
 
