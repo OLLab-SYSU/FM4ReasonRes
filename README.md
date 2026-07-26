@@ -18,6 +18,10 @@
 #### Foundation Models for Reasoning (FM4Reason)
 - [A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook](https://dl.acm.org/doi/10.1145/3729218), ACM Comput. Surv. 57, 11, Article 278, June 2025. [GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) 
 [\[2.1 Definition of Reasoning\]](https://arxiv.org/pdf/2312.11562) 
+
+
+- Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
+
 - From system 1 to system 2: a survey of reasoning large language models, IEEE TPAMI, 2026. [GitHub](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 
 - A survey on LLM complex reasoning through the lens of self-evolution, ACL 2025 Findings.
