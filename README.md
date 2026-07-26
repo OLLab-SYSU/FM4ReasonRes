@@ -30,9 +30,9 @@
 - Large knowledge model: Perspectives and challenges, Data Intelligence, 2024.
 
 ## Agents and Self-Evolving Agents：
-- [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026.
+- [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026. [Chapter 2.2 Reasoning]
 
-- AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026.
+- AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026. [第9章 规划（推理）能力]
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026. [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents) 
 
