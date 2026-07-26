@@ -9,6 +9,10 @@
 
 - SE-Agent: Self-evolution trajectory optimization in multi-step reasoning with LLM-based agents, NeurIPS 2025. [Code](https://github.com/JARVIS-Xs/SE-Agent)
 
+- [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026. [Chapter 2.2 Reasoning]
+
+- AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026. [第9章 规划（推理）能力]
+
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
 
 #### Foundation Models for Reasoning (FM4Reason)
@@ -29,11 +33,7 @@
 
 - Large knowledge model: Perspectives and challenges, Data Intelligence, 2024.
 
-## Agents and Self-Evolving Agents：
-- [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026. [Chapter 2.2 Reasoning]
-
-- AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026. [第9章 规划（推理）能力]
-
+## Self-Evolving Agents：
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026. [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents) 
 
 - Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/) 
