@@ -27,6 +27,8 @@
 
 - Unifying large language models and knowledge graphs: a roadmap, IEEE TKDE, 2024.
 
+- Large knowledge model: Perspectives and challenges, Data Intelligence, 2024.
+
 ## Agents and Self-Evolving Agents：
 - [Advances and Challenges in Foundation Agents](https://arxiv.org/abs/2504.01990), 2026.
 
