@@ -26,7 +26,7 @@
 
 - A survey on LLM complex reasoning through the lens of self-evolution, ACL 2025 Findings.
 
-#### LLM+Graph Foundation Models/Konwledge Graph for Reasoning (LLM+GFM4Reason)
+#### LLM+Graph Foundation Models/Konwledge Graph for Reasoning (Neural-Symbolic Reasoning)
 - Graph foundation models: A comprehensive survey, 2025. [GitHub](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
 
 - G-Reasoner: Foundation models for unified reasoning over graph-structured knowledge, ICLR 2026.
