@@ -26,12 +26,14 @@
 
 - A survey on LLM complex reasoning through the lens of self-evolution, ACL 2025 Findings.
 
-#### Graph Foundation Models/Konwledge Graph for Reasoning (GFM4Reason)
+#### LLM+Graph Foundation Models/Konwledge Graph for Reasoning (LLM+GFM4Reason)
 - Graph foundation models: A comprehensive survey, 2025. [GitHub](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
 
 - G-Reasoner: Foundation models for unified reasoning over graph-structured knowledge, ICLR 2026.
 
 - HYPER: A foundation model for inductive link prediction with knowledge hypergraphs, ICLR 2026.
+
+- Reason-Align-Respond: Aligning LLM reasoning with knowledge graphs for KGQA, IEEE TPAMI, 2026.
 
 - Unifying large language models and knowledge graphs: a roadmap, IEEE TKDE, 2024.
 
