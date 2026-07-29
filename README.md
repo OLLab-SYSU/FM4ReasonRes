@@ -5,6 +5,8 @@
 #### Foundation Agents for Reasoning (Agentic Reasoning)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
+- Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai)
+
 - LLM-based agentic reasoning frameworks: A survey from methods to scenarios, 2025.
 
 - SE-Agent: Self-evolution trajectory optimization in multi-step reasoning with LLM-based agents, NeurIPS 2025. [Code](https://github.com/JARVIS-Xs/SE-Agent)
@@ -15,7 +17,6 @@
 
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
 
-- Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai)
 
 
 #### Foundation Models for Reasoning (FM4Reason)
