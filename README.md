@@ -5,7 +5,7 @@
 #### Foundation Agents for Reasoning (Agentic Reasoning)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
-- Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai)
+- Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai) [3 Agentic Planning (Reasoning)]
 
 - LLM-based agentic reasoning frameworks: A survey from methods to scenarios, 2025.
 
