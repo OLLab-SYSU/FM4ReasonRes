@@ -19,7 +19,7 @@
 
 
 
-#### Foundation Models for Reasoning (FM4Reason)
+#### Foundation Models for Reasoning (LLM Reasoning)
 - [A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook](https://dl.acm.org/doi/10.1145/3729218), ACM Comput. Surv. 57, 11, Article 278, June 2025. [GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) 
 [\[2.1 Definition of Reasoning\]](https://arxiv.org/pdf/2312.11562) 
 
