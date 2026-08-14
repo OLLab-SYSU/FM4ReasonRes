@@ -15,7 +15,7 @@
 
 - AI Agent: Foundations and Applications, (智能体：理论基础与应用实践，电子工业出版社), 2026. [第9章 规划（推理）能力]
 
-- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey)
+- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey), [Agentic Search](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)
 
 
 
