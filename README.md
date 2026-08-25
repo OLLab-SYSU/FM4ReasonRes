@@ -2,10 +2,11 @@
 
 ## Foundation Models for Reasoning：
 
+#### Unified Perspectives
+- A survey of frontiers in LLM reasoning: inference scaling, learning to reason, and agentic systems, TMLR 2026. [GitHub](https://llm-reasoning-ai.github.io/)
+
 #### Foundation Agents for Reasoning (Agentic Reasoning)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
-
-- A survey of frontiers in LLM reasoning: inference scaling, learning to reason, and agentic systems, TMLR 2026. [GitHub](https://llm-reasoning-ai.github.io/)
 
 - Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai) [3 Agentic Planning (Reasoning)]
 
