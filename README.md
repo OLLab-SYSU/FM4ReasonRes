@@ -20,17 +20,21 @@
 
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136), 2026. [GitHub](https://github.com/asinghcsu/AgenticRAG-Survey), [Agentic Search](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)
 
-
+- A survey on foundations and frontiers of multimodal agentic frameworks: techniques and applications, 2026.
 
 #### Foundation Models for Reasoning (LLM Reasoning)
 - [A Survey of Reasoning with Foundation Models: Concepts, Methodologies, and Outlook](https://dl.acm.org/doi/10.1145/3729218), ACM Comput. Surv. 57, 11, Article 278, June 2025. [GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) 
-[\[2.1 Definition of Reasoning\]](https://arxiv.org/pdf/2312.11562) 
+[\[2.1 Definition of Reasoning\]](https://arxiv.org/pdf/2312.11562)
+
+- The periodic table of LLM reasoning: a structured survey of reasoning paradigms, methods, and failure modes, 2026.
 
 - From system 1 to system 2: a survey of reasoning large language models, IEEE TPAMI, 2026. [GitHub](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 
 - Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
 
 - A survey on LLM complex reasoning through the lens of self-evolution, ACL 2025 Findings.
+
+- Towards a mechanistic understanding of large reasoning models: A survey of training, inference, and failures, 2026.
 
 #### LLM+Graph Foundation Models/Konwledge Graph for Reasoning (Neural-Symbolic Reasoning)
 - Graph foundation models: A comprehensive survey, 2025. [GitHub](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
