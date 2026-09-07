@@ -52,7 +52,7 @@
 - Large knowledge model: Perspectives and challenges, Data Intelligence, 2024.
 
 ## Self-Evolving Agents：
-- A Taxonomy of Self-evolving Agents, 2026. [Blog Post](https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/) 
+- A Taxonomy of Self-evolving Agents, 2026. [Blog Post](https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/)
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026. [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents) 
 
@@ -61,4 +61,6 @@
 - Self-improvement in modern agent systems: A suvery, 2026. [GitHub](https://github.com/selfimproving-agent/awesome-Self-Improving-Agents)  [Project](https://selfimproving-agent.github.io/)
 
 - A systematic survey of self-evolving agents: from model-centric to environment-driven co-evolution, 2026.
+
+- A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference, Machine Intelligence Research, 2026. [GitHub](https://github.com/mr-eggplant/awesome_test_time_intelligence)
 
