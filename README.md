@@ -5,7 +5,7 @@
 #### Unified Perspectives
 - A survey of frontiers in LLM reasoning: inference scaling, learning to reason, and agentic systems, TMLR 2026. [GitHub](https://llm-reasoning-ai.github.io/)
 
-- When LLM meets tree search: A systematic view of inference as search in large language models, EMNLP 2026.
+- When LLM meets tree search: A systematic view of inference as search in large language models, EMNLP 2026. [Tree-search-based Reasoning]
 
 #### Foundation Agents for Reasoning (Agentic Reasoning)
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
