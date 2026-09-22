@@ -56,7 +56,7 @@
 
 - Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/)
 
-- Gream-RSI: Recursive self-improvement throuth evolving worlds, 2026.  [GitHub](https://github.com/zhengkid/Dream-RSI)
+- Dream-RSI: Recursive self-improvement throuth evolving worlds, 2026.  [GitHub](https://github.com/zhengkid/Dream-RSI)
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026. [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents) 
 
