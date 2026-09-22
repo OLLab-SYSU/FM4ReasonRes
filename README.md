@@ -51,7 +51,7 @@
 
 - Large knowledge model: Perspectives and challenges, Data Intelligence, 2024.
 
-## Self-Evolving Agents：
+## Self-Evolving Agents for Reasoning/Optimization：
 - A Taxonomy of Self-evolving Agents, 2026. [Blog Post](https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/)
 
 - Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/)
