@@ -58,6 +58,8 @@
 
 - Dream-RSI: Recursive self-improvement through evolving worlds, 2026.  [GitHub](https://github.com/zhengkid/Dream-RSI)
 
+- AlgoEvo: Self-evolving agentic search for automated algorithm discovery, 2026. 
+
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026. [GitHub](https://github.com/CharlesQ9/Self-Evolving-Agents) 
 
 
