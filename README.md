@@ -45,6 +45,8 @@
 
 - HYPER: A foundation model for inductive link prediction with knowledge hypergraphs, ICLR 2026.
 
+- Knowledge reasoning language model: Unifying knowledge and language for inductive knowledge graph reasoning, ICLR 2026.
+
 - Reason-Align-Respond: Aligning LLM reasoning with knowledge graphs for KGQA, IEEE TPAMI, 2026.
 
 - Unifying large language models and knowledge graphs: a roadmap, IEEE TKDE, 2024.
@@ -53,6 +55,8 @@
 
 ## Self-Evolving Agents for Reasoning/Optimization：
 - A Taxonomy of Self-evolving Agents, 2026. [Blog Post](https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/)
+
+- Towards long-horizon agents: A survey, 2026.
 
 - Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026. [Web](http://agent-evolution.com/)
 
