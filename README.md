@@ -32,6 +32,8 @@
 
 - From system 1 to system 2: a survey of reasoning large language models, IEEE TPAMI, 2026. [GitHub](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 
+- LLM post-training: A deep dive into reasoning large language models, IEEE TPAMI, 2026.
+
 - Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
 
 - A survey on LLM complex reasoning through the lens of self-evolution, ACL 2025 Findings.
