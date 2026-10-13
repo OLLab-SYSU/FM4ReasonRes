@@ -8,7 +8,7 @@
 - When LLM meets tree search: A systematic view of inference as search in large language models, EMNLP 2026. [Tree-search-based Reasoning]
 
 #### Foundation Agents for Reasoning (Agentic Reasoning)
-- [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
+- [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538), TMLR 2026. [GitHub](https://github.com/weitianxin/Awesome-Agentic-Reasoning)
 
 - Beyond pipelines: a survey of the paradigm shift toward model-native agentic AI, 2025. [GitHub](https://github.com/ADaM-BJTU/model-native-agentic-ai) [3 Agentic Planning (Reasoning)]
 
