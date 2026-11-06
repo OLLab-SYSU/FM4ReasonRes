@@ -41,6 +41,7 @@
 - Towards a mechanistic understanding of large reasoning models: A survey of training, inference, and failures, 2026.
 
 #### LLM+Graph Foundation Models/Konwledge Graph for Reasoning (Neural-Symbolic Reasoning)
+- KGFR: A Foundation Retriever for Generalized Knowledge Graph Question Answering, IEEE TKDE, 2026. [Code](https://github.com/yncui-nju/KGFR)
 - Graph foundation models: A comprehensive survey, 2025. [GitHub](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
 
 - G-Reasoner: Foundation models for unified reasoning over graph-structured knowledge, ICLR 2026.
